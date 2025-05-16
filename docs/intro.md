@@ -7,6 +7,7 @@ sidebar_position: 1
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
+![messageImage_1708964946833](https://github.com/user-attachments/assets/1eb277bf-bf0e-48fa-81e6-82bd08ae1d69)
 
 Get started by **creating a new site**.
 
